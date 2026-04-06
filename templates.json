@@ -1,0 +1,16 @@
+{
+  "flutter": {
+    "clean-arch": {
+      "repo": "Arunram2000/flutter-clean-arch-template",
+      "branch": "main",
+      "description": "Flutter clean architecture with Riverpod"
+    }
+  },
+  "react": {
+    "admin-dashboard": {
+      "repo": "Arunram2000/react-admin-template",
+      "branch": "main",
+      "description": "React admin starter"
+    }
+  }
+}
