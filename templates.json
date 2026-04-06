@@ -12,5 +12,11 @@
       "branch": "main",
       "description": "React admin starter"
     }
+  },
+  "node": {
+    "express-typescript": {
+      "repo" "Arunram2000/scaffoldx-node-express-typescript-template",
+      "branch": "main",
+      "description": "Production-ready Node.js + TypeScript + Express starter template"
   }
 }
